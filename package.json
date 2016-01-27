@@ -1,0 +1,18 @@
+{
+  "name": "cladogram",
+  "version": "1.0.0",
+  "description": "uses d3 tree layout to draw out a cladogram tree",
+  "main": "cladogram.js",
+  "dependencies": {
+    "d3": "^3.5.13",
+    "express": "^4.13.4",
+    "jquery": "^2.2.0",
+    "jquery.tipsy": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
