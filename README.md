@@ -14,7 +14,7 @@ Just wanted to play around with D3's tree layout functionality.
 ![picture alt](/img/cladogram.png)
 
 #####How to run on your pc:#####
-*clone the repo 
-*run npm install
-*run node server.js
-*open localhost:3000 on your browser
+* clone the repo 
+* run npm install
+* run node server.js
+* open localhost:3000 on your browser
